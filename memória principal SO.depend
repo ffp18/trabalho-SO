@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698464107 source:c:\users\fran_\desktop\memória principal so\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+
